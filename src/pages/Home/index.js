@@ -5,7 +5,7 @@ import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
 
-function App() {
+function Home() {
   return (
     <div style={{ background: "#141414" }}>
       <Menu />
@@ -46,4 +46,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
