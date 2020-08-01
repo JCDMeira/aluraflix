@@ -1,11 +1,8 @@
-/* eslint-disable no-undef */
-/* eslint-disable import/no-extraneous-dependencies */
-// eslint-disable-next-line no-unused-vars
 const jsonServer = require('json-server');
 
-const server = create();
-const router = _router('db.json');
-const middlewares = defaults();
+const server = jsonServer.create();
+const router = jsonServer.router('db.json');
+const middlewares = jsonServer.defaults();
 
 const port = process.env.PORT || 8080;
 
