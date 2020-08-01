@@ -9,7 +9,7 @@ function getYouTubeId(youtubeURL) {
     );
 }
 
-
+// eslint-disable-next-line react/prop-types
 function VideoCard({ videoTitle, videoURL, categoryColor }) {
   const image = `https://img.youtube.com/vi/${getYouTubeId(videoURL)}/hqdefault.jpg`;
   return (
