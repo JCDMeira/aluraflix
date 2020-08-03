@@ -32,7 +32,7 @@ O Aluraflix foi criado acompanhando a Imersão React com base na Netflix, o even
 
 ## Demonstração das telas
 ### Tela principal
-![](./apresentacao/recording_Aula.webm)
+![](./apresentacao/recording_Aula.gif)
 
 
 # Meios de contato
