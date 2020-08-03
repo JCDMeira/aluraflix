@@ -26,10 +26,10 @@ Lumo vem do latim luminis, que remete a luz, portanto o Lumoflix convida você a
 
 ## Autores e instrutores da Imersão React
 
-* Mario Souto - [Linkedin](https://www.linkedin.com/in/omariosouto/) [Twitter](https://twitter.com/omariosouto) [Instagram](https://www.instagram.com/omariosouto/)
-* Juliana Negreiros - [Linkedin](https://www.linkedin.com/in/juliananegreiros/) [Twitter](https://twitter.com/juunegreiros) [Instagram](https://www.instagram.com/juu_negreiros/)
-* Marco Bruno - [Linkedin](https://www.linkedin.com/in/marcobrunobr/) [Twitter](https://twitter.com/marcobrunodev) [Instagram](https://www.instagram.com/marcobrunodev/)
-* Paulo Silveira - [Linkedin](https://www.linkedin.com/in/paulosilveira/) [Twitter](https://www.linkedin.com/in/paulosilveira/) [Instagram](https://www.instagram.com/paulo_hipster/)
+* Mario Souto - [Linkedin](https://www.linkedin.com/in/omariosouto/) - [Twitter](https://twitter.com/omariosouto) - [Instagram](https://www.instagram.com/omariosouto/)
+* Juliana Negreiros - [Linkedin](https://www.linkedin.com/in/juliananegreiros/) - [Twitter](https://twitter.com/juunegreiros) - [Instagram](https://www.instagram.com/juu_negreiros/)
+* Marco Bruno - [Linkedin](https://www.linkedin.com/in/marcobrunobr/) - [Twitter](https://twitter.com/marcobrunodev) - [Instagram](https://www.instagram.com/marcobrunodev/)
+* Paulo Silveira - [Linkedin](https://www.linkedin.com/in/paulosilveira/) - [Twitter](https://www.linkedin.com/in/paulosilveira/) - [Instagram](https://www.instagram.com/paulo_hipster/)
 
 ## Demonstração das telas
 ### Tela principal
