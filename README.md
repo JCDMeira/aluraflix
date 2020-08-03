@@ -1,6 +1,6 @@
 # Projeto da Imersão React
 
-<p  align="center"><img src="./apresentacao/logo.png" align="center"></img></p>
+<p  align="center" ><img src="./apresentacao/logo.png" align="center"  width="200"  ></img></p>
 
 # Aluraflix
 
